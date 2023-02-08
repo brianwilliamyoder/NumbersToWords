@@ -1,0 +1,12 @@
+/Users/by/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/net6.0/NumbersToWords.csproj.AssemblyReference.cache
+/Users/by/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/net6.0/NumbersToWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/by/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/net6.0/NumbersToWords.AssemblyInfoInputs.cache
+/Users/by/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/net6.0/NumbersToWords.AssemblyInfo.cs
+/Users/by/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/net6.0/NumbersToWords.csproj.CoreCompileInputs.cache
+/Users/by/Desktop/NumbersToWords.solution/NumbersToWords/bin/Debug/net6.0/NumbersToWords.deps.json
+/Users/by/Desktop/NumbersToWords.solution/NumbersToWords/bin/Debug/net6.0/NumbersToWords.dll
+/Users/by/Desktop/NumbersToWords.solution/NumbersToWords/bin/Debug/net6.0/NumbersToWords.pdb
+/Users/by/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/net6.0/NumbersToWords.dll
+/Users/by/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/net6.0/refint/NumbersToWords.dll
+/Users/by/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/net6.0/NumbersToWords.pdb
+/Users/by/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/net6.0/ref/NumbersToWords.dll
